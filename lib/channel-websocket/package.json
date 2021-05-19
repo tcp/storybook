@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@storybook/channels": "6.3.0-alpha.34",
-    "core-js": "^3.8.2",
+    "core-js": "^3.12.1",
     "global": "^4.4.0",
     "telejson": "^5.3.2"
   },
